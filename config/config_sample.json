@@ -12,9 +12,9 @@
     "host": "0.0.0.0",
     "port": 8080
   },
-  "storage_type": "oss",
+  "storage_type": "local",
   "oss": {
-    "address": "https://i0.vjoi.cn",
+    "address": "https://askbox.weiprivate.top",
     "endpoint": "oss-cn-beijing.aliyuncs.com",
     "access_key": "",
     "secret_key": "",
